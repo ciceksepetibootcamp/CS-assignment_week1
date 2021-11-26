@@ -2,11 +2,11 @@
 
 TEST 1
 Test Case : Sepete ürün ekleme
--Çiçek Sepeti Anasayfa açılır.
--Pop-uplar kapatılır
--Header'da bulunan kampanyaya tıklanır.
--İlk listelenen ürüne tıklanır.
--Sepete ekle butonuna tıklanır.
+> Çiçek Sepeti Anasayfa açılır.
+> Pop-uplar kapatılır
+> Header'da bulunan kampanyaya tıklanır.
+> İlk listelenen ürüne tıklanır.
+> Sepete ekle butonuna tıklanır.
 
 Test Case:Sepetten ürün çıkarma
 -Çiçek Sepeti Anasayfa açılır.
