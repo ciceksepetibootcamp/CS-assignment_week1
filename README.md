@@ -1,7 +1,7 @@
 ## [Çiçek Sepeti](https://www.ciceksepeti.com/) Test Otomasyon Projesi
 
-TEST 1
-Test Case : Sepete ürün ekleme
+TEST 1<br/>
+Test Case : Sepete ürün ekleme <br/>
 > Çiçek Sepeti Anasayfa açılır.
 > Pop-uplar kapatılır
 > Header'da bulunan kampanyaya tıklanır.
